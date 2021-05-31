@@ -1,0 +1,4 @@
+180000/Tieu Zi Yee/123456/Melaka,Melaka Tengah,Asahan,31910,Taman Tensan 2,102/01155484654
+180003/Tan Ching Erl/180003/Melaka,Melaka Tengah,Ayer Keroh,31910,Jln Kem,107/0123456785
+180004/Tan Kai Fung/180004/Melaka,Alor Gajah,Bandar Hilir,21910,Jln Kem,100/0123456781
+180005/Ah Beng/180005/Melaka,Melaka Tengah,Batu Berendam,31910,Taman Botanica,89/0123456782

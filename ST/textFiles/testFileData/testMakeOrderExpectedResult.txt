@@ -1,0 +1,20 @@
+Alor Gajah/3/2.5/26.1/true
+Durian Tunggal/3/3.5/112.2/false
+Sungai Rambai/2/2.5/21.1/true
+Tanjong Kling/2/4.5/21.6/true
+Kuala Linggi/3/3/1636.85/false
+Bandar Hilir/4/5/528.75/false
+Bemban/3/4/223.4/false
+Jasin/6/4/5358.5/false
+Lubok China/10/3/994/false
+Melaka Tengah/5/5/1756.55/false
+Selandar/5/4/1693.85/false
+Masjid Tanah/10/2.5/946.5/false
+Kuala Sungai Baru/5/3/3261.95/false
+Bukit Beruang/3/3.5/219.2/false
+Ayer Keroh/4/5/509.25/false
+Batu Berendam/3/3.5/24.7/true
+Ujong Pasir/3/4.5/96.6/false
+Merlimau/3/4/1220.75/false
+Sungai Udang/2/2.5/25.3/true
+Asahan/2/4/20.5/true

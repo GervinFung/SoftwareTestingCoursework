@@ -1,0 +1,20 @@
+1/Butter cake/C/46.00/46.80/false
+2/Marble cake/C/76.50/77.20/false
+3/Burnt Cheesecake/C/120.00/125.00/false
+4/Chocolate Indulgence/C/98.00/105.00/false
+5/Tiramisu Cake/C/98.00/105.00/false
+6/Oreo Cheese/C/98.00/105.00/false
+7/Black Forest/C/130.00/135.00/false
+8/Carrot Cake/C/70.00/75.00/false
+9/Chocolate Cake/C/85.00/90.00/false
+10/Red Velvet/C/125.00/130.00/false
+11/Absolute Durian/C/135.00/140.00/true
+12/Salted Caramel Macadamia Cheese/C/180.00/185.00/true
+13/White Chocolate Cake/C/95.00/98.00/true
+14/Apple pie(3 pieces)/P/9.30/9.90/false
+15/Cinnamon Roll(2 pieces)/P/8.20/8.70/false
+16/Croissant/P/4.20/4.50/false
+17/Macaron(5 pieces)/P/15.00/15.50/false
+18/Pretzel(2 pieces)/P/13.00/13.60/false
+19/Pineapple tart(1 container)/P/39.00/42.00/true
+20/Spring roll(1 container)/P/30.00/32.00/true
